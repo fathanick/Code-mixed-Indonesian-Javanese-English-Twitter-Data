@@ -1,6 +1,7 @@
 # Code-mixed-Indonesian-Javanese-English-Twitter-Data
 
 This is a clean version of code-mixed Indonesian-Javanese-English data for token level language identification.
+We name this dataset as IJELID (Indonesian-Javanese-English Language Identification).
 This dataset contains tweets that have been tokenized with the corresponding token and its language label.
 There are seven language labels in the dataset, namely: 
 1. ID (Indonesian), 
