@@ -52,8 +52,10 @@ There are seven language labels in the dataset, namely:
 		- Macbookku (My Macbook) => Macbook (named entity) + -ku (Indonesian or Javanese suffix).
 		- Macbooknya (The Macbook) => Macbook (named entity) + -nya (Indonesian suffix).
 
-# Citation 
 
+# Citation
+
+```bibtex
 @article{hidayatullah2023corpus,
   title={Corpus creation and language identification for code-mixed Indonesian-Javanese-English Tweets},
   author={Hidayatullah, Ahmad Fathan and Apong, Rosyzie Anna and Lai, Daphne TC and Qazi, Atika},
